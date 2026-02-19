@@ -17,7 +17,7 @@
 			 2 = On Touch Gesture & Passcode;
 		-->
 		<key>settingsShowingOption</key>
-		<integer>0</integer>
+		<integer>1</integer>
 
 		<!-- Show Settings > Passcode (4 digit string) -->
 		<key>settingsPassCode</key>
