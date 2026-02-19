@@ -11,6 +11,12 @@
 
 		<!-- Documentation for each setting and its possible values is available in our Knowledge Base at support.kioskgroup.com. A spreadsheet with these values is also maintained at kioskgroup.com/kiosk-pro-remote-settings -->
 
+
+		<!-- Version -->
+		<key>version</key>
+		<integer>1</integer>
+
+		
 		<!-- Homepage -->
 		<key>homePage</key>
 		<string>https://get.help.twoday.com/servicedesk/customer/portal/2/group/11/create/95</string>
