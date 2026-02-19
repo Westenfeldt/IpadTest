@@ -61,7 +61,7 @@
 
 		<!-- Screensaver > Path to Local File or Folder -->
 		<key>sv_url2MovieFile</key>
-		<string>Meeting.jpeg</string>
+		<string>Frokost.jpeg</string>
 
 		<!-- Screensaver > Background Color (RGB) or Image -->
 		<key>kp_backgroundColorOfScreenSaverSlideShow</key>
