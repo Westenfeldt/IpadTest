@@ -2,9 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>kioskSettings_v2</key>
+<key>kioskSettings_v2</key>
 	<dict>
-
+<key>version</key>
+<integer>1</integer>
+<key>zip</key>
+<string>update.zip</string>
+<key>clear-previous-content</key>
+<false/>
 		<!-- Remote Settings Control configuration exported from Kiosk Pro Plus, version 11.3, on 2026-02-19T10:25:51 CET -->
 
 		<!-- This file uses Kiosk Pro's current XML format for Remote Settings Control (see 'kioskSettings_v2' above), compatible with devices running app version 10.4 or later. If your project includes kiosks on older versions of the app, you can learn more about using our legacy format at kioskgroup.com/legacy-xml -->
@@ -16,7 +21,7 @@
 			 1 = Never;
 			 2 = On Touch Gesture & Passcode;
 		-->
-		<key>version</key><integer>1</integer>
+		
 
 
 		
@@ -2007,6 +2012,9 @@
 		<key>kp_monitorInternetAccessWhenIdle_totallyDisabled</key>
 		<false/>
 
-	</dict>
+	
+</dict>
+
+
 </dict>
 </plist>
