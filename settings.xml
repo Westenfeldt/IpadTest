@@ -16,8 +16,12 @@
 			 1 = Never;
 			 2 = On Touch Gesture & Passcode;
 		-->
+		<key>version</key><integer>1</integer>
+
+
+		
 		<key>settingsShowingOption</key>
-		<integer>1</integer>
+		<integer>0</integer>
 
 		<!-- Show Settings > Passcode (4 digit string) -->
 		<key>settingsPassCode</key>
