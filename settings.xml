@@ -21,11 +21,11 @@
 
 		<!-- Screensaver > Path to Local File or Folder -->
 		<key>sv_url2MovieFile</key>
-		<string>Frokost.jpeg</string>
+		<string>Meeting.jpeg</string>
 
 		<!-- Screensaver > Standard Display > Image Duration (seconds) -->
 		<key>kp_updateIntervalOfScreenSaverSlideShow</key>
-		<string>10</string>
+		<string>3600</string>
 
 		<!-- Refresh Homepage (minutes) -->
 		<key>refreshTime</key>
