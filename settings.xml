@@ -6,9 +6,7 @@
 	<dict>
 <key>version</key>
 <integer>1</integer>
-<key>zip</key>
-<string>update.zip</string>
-<key>clear-previous-content</key>
+
 
 <false/>
 		<!-- Remote Settings Control configuration exported from Kiosk Pro Plus, version 11.3, on 2026-02-19T10:25:51 CET -->
