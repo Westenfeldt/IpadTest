@@ -69,7 +69,7 @@
 
 		<!-- Screensaver > Standard Display > Image Duration (seconds) -->
 		<key>kp_updateIntervalOfScreenSaverSlideShow</key>
-		<string>10</string>
+		<string>3600</string>
 
 		<!-- Screensaver > Standard Display > Fade Duration (seconds) -->
 		<key>kp_fadeDurationOfScreenSaverSlideShow</key>
